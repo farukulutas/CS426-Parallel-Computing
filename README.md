@@ -1,4 +1,4 @@
-# Bilkent-CS426-Parallel-Computing-Projects
+# Bilkent CS426 Parallel Computing Projects
 
 Welcome to the repository for the CS426 - Parallel Computing course at Bilkent University. This repository contains four detailed projects that illustrate the application of parallel computing techniques, particularly focusing on CUDA and GPU programming.
 
