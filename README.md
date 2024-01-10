@@ -21,10 +21,6 @@ Welcome to the repository for the CS426 - Parallel Computing course at Bilkent U
 
 Please refer to individual project directories for specific instructions on compiling and running each project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 
 Bilkent University | CS426 - Parallel Computing
